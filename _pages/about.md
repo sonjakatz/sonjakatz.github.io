@@ -24,6 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a Computational Biologist focusing on applying **machine and deep learning** techniques to advance **personalized healthcare** by extracting insights from complex **biomedical data**. 
+
+I collaborate closely with **clinicians** to develop **scalable, data-driven tools** for objective monitoring of **treatment response** in **inflammatory diseases**. 
+
+During my **PhD**, I designed **explainable AI models** to capture patient characteristics, with an emphasis on creating **clinically applicable solutions**. I hold **Bachelor’s and Master’s degrees in Biotechnology**, providing a multidisciplinary foundation in **experimental biology**, **computational modeling**, and **clinical research**.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
