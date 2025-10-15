@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: sonja-katz # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -148,7 +148,7 @@ collections:
   # news:
   #   defaults:
   #     layout: post
-    output: true
+    # output: true
   projects:
     output: true
 
@@ -173,8 +173,10 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   ########## 
+  - _books/*.md
   - _news/announcement_*.md
   - _pages/blog.md
+  - _pages/repositories.md
   - _posts/
   - assets/jupyter/blog.ipynb
   ########## 
