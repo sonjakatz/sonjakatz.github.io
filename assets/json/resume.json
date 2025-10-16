@@ -6,13 +6,6 @@
     "email": "sonja.katz@hotmail.com",
     "url": "https://sonjakatz.github.io/",
     "summary": "Computational biologist with expertise in machine learning and AI-driven precision medicine, specializing in transforming complex biomedical data into meaningful clinical insights. Proven track record of developing innovative research tools that bridge computational methods and medical research, with a focus on creating practical solutions for healthcare challenges.",
-    // "location": {
-    //   "address": "2712 Broadway St",
-    //   "postalCode": "CA 94115",
-    //   "city": "San Francisco",
-    //   "countryCode": "US",
-    //   "region": "California"
-    // },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -63,18 +56,51 @@
     }
   ],
   "skills": [
+      {
+        "name": "Biomedical Data Science",
+        "level": "Master",
+        "icon":"fa-solid fa-dna",
+        "keywords": [
+        "EHR",
+        "multi-omics",
+        "biomedical images",
+        "machine learning (scikit-learn)",
+        "deep learning (PyTorch)",
+        "confounder adjustment"
+        ]
+     },
     {
-      "name": "Physics",
+    "name": "Data Visualization",
+    "level": "Master",
+    "icon": "fa-solid fa-chart-bar",
+    "keywords": [
+        "Exploratory data analysis (EDA)",
+        "Data visualization (Plotly, Seaborn)",
+        "Interactive dashboards (Dash)",
+        "Vector graphics design (Adobe Illustrator)"
+    ]
+    },
+    {
+      "name": "Collaboration",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-hands-helping",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "Reproducible workflows (git)",
+      "Project management",
+      "Workflow documentation",
+      "Cross-functional collaboration",
+      "Stakeholder communication"
       ]
+    },
+    {
+    "name": "Dissemination",
+    "level": "Master",
+    "icon": "fa-solid fa-bullhorn",
+    "keywords": [
+    "Public speaking",
+    "Scientific writing & publication preparation",
+    "Science communication"
+    ]
     }
   ],
   "languages": [
@@ -87,42 +113,52 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "B1",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Volleyball",
+      "icon": "fa-solid fa-volleyball",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "former professional player at VB NÖ Sokol/Post",
+        "former Austrian Women's Nationalteam Player"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Thru-hiking",
+      "icon": "fa-solid fa-person-hiking",
+      "keywords": [
+        "completed Te Araroa Trail (3000km) in New Zealand"
+      ]
     }
   ]
 }
+
+  // "references": [
+  //   {
+  //     "name": "Professor John Doe",
+  //     "icon": "fa-solid fa-laptop",
+  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  //   },
+  //   {
+  //     "name": "Professor John Doe",
+  //     "icon": "fa-solid fa-thumbtack",
+  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  //   }
+  // ],
+//   "projects": [
+//     {
+//       "name": "Quantum Computing",
+//       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+//       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+//       "startDate": "2018-01-01",
+//       "endDate": "2018-01-01",
+//       "url": "https://example.com"
+//     }
+//   ]
+// }
